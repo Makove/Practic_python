@@ -12,7 +12,7 @@ def read_data(input_file):
 
 #Путь к входному файлу и преобразование столбца в формат временных рядов
 if __name__=='__main__':
-  input_file = "/Users/admin/AO.txt"
+  input_file = "/Users\1\Desktop\5 пр"
   timeseries = read_data(input_file)
 
 #Визуализация данных на графиках
